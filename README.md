@@ -17,10 +17,10 @@ Jupyter Notebook <br>
 
 ## 유의 사항
 
-Shape 파일은 그냥 사용해도 상관 없지만 비공간 데이터를 벡터 레이아웃으로 추가할 경우 쿼리문 연산을 위해 칼럼 데이터를 변경해주어야 합니다.
+Shape 파일은 그냥 사용해도 상관 없지만 비공간 데이터를 벡터 레이아웃으로 추가할 경우 <br>쿼리문 연산을 위해 칼럼 데이터를 변경해주어야 합니다.
 
-![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/3f2848ab-9ad7-4032-8643-52eedd4a4c21)<br>
-<b>인구수 = INTEGER</b><br>
+![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/3f2848ab-9ad7-4032-8643-52eedd4a4c21)<br><br>
+<b>인구수 = INTEGER</b><br><br><br>
 ![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/4d39b0f4-b87e-44c9-a9b8-6b3ac0bc26fa)<br>
-![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/6c2fbc3e-c30c-4d66-be6c-9530b7047161)<br>
+![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/6c2fbc3e-c30c-4d66-be6c-9530b7047161)<br><br>
 부동소수점을 사용하는 <b>위도, 경도 =FLOAT</b>
