@@ -23,4 +23,4 @@ Shape 파일은 그냥 사용해도 상관 없지만 비공간 데이터를 벡�
 <b>인구수 = INTEGER</b><br><br><br>
 ![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/4d39b0f4-b87e-44c9-a9b8-6b3ac0bc26fa)<br>
 ![image](https://github.com/yoohwanihn/GIS-Data/assets/73772238/6c2fbc3e-c30c-4d66-be6c-9530b7047161)<br><br>
-부동소수점을 사용하는 <b>위도, 경도 =FLOAT</b>
+부동소수점을 사용하는 <br><b>위도, 경도 =FLOAT</b>
